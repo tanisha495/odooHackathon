@@ -1,4 +1,4 @@
-# SkillXchange - Retro Edition
+# SkillXchange
 
 
 A retro-themed skill exchange platform where users can trade their expertise with others in a nostalgic CRT interface.
