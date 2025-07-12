@@ -1,4 +1,4 @@
-# SkillXchange
+# SkillXchange - Retro Edition
 
 
 A retro-themed skill exchange platform where users can trade their expertise with others in a nostalgic CRT interface.
@@ -28,7 +28,7 @@ To run the project, simply follow these steps:
 
 1. **Open the Website**  
    Click the link below to access the project directly in your browser:  
-   [Odoo Hackathon Website](https://tanisha495.github.io/odooHackathon/)
+   [SkillXchange - Odoo Hackathon(https://tanisha495.github.io/odooHackathon/)
 
 > No installation required — it runs straight in your browser!
 
