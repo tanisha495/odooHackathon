@@ -1,6 +1,5 @@
-# Skill Swap Platform - Retro Edition
+# SkillXchange - Retro Edition
 
-![Skill Swap Platform]
 
 A retro-themed skill exchange platform where users can trade their expertise with others in a nostalgic CRT interface.
 
