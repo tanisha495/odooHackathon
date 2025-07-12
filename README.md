@@ -21,16 +21,16 @@ A retro-themed skill exchange platform where users can trade their expertise wit
 - **Storage**: Browser localStorage
 - **Design**: Retro CRT-inspired UI with scanline effects
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/skill-swap-platform.git
-   ```
-2. Open the `index.html` file in any modern web browser
-3. Register a new account or use the default admin credentials:
-   - Email: `admin@skills.com`
-   - Password: `admin123`
+## How to Run 🚀
+
+To run the project, simply follow these steps:
+
+1. **Open the Website**  
+   Click the link below to access the project directly in your browser:  
+   [Odoo Hackathon Website](https://tanisha495.github.io/odooHackathon/)
+
+> No installation required — it runs straight in your browser!
 
 ## Usage
 
